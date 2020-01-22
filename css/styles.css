@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+
+    margin: 50px auto 20px auto;
+    font-size: 5rem;
+    font-family: 'Kaushan Script', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 2.5rem;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5em;
+    color: #66BFBF;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    color: #2b2e4a;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: lightgrey;
+}
+
+.intro {
+    font-size: 1.5rem;
+    width: 40%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+
+
+.subtitle {
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-top: 0px;
+    font-family: 'Architects Daughter', cursive;
+    color: #66BFBF;
+}
+
+.top-container {
+    background-color: #e0ebe8;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.mountain {
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #f3f3f3;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: #e0ebe8;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+
+
+.skill-row {
+    width: 45%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-size: 1.1rem;
+}
+
+.java {
+
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding {
+
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.photoshop {
+
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-name {
+    text-decoration: underline;
+    text-underline-position:  3em;
+    color: #8ac6d1;
+    text-decoration: none;
+}
+
+.footer{
+	color: #8ac6d1;
+	font-size:.75rem;
+	padding:20px 0px;
+}
+
+.footer-name:hover {
+    color: #347474;
+}
+
+.footer-link {
+    font-family: 'Fredoka One', cursive;
+    color: #8ac6d1;
+    margin: 10px 20px;
+    font-weight: normal;
+    text-decoration:none;
+}
+
+.footer-link:hover {
+    color: #347474;
+}
+
+.last-line {
+    width: 30%;
+    font-size: 1.1rem;
+    margin: 40px auto 50px;
+    padding-bottom: 20px;
+
+}
+
+.contact {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Fredoka One', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    margin-left: 1px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
